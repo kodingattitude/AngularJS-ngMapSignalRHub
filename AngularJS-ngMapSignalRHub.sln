@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJS-ngMapSignalRHub", "AngularJS-ngMapSignalRHub\AngularJS-ngMapSignalRHub.csproj", "{318F9125-34CD-45B2-9DAF-0761323DEB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi-ngMapSignalRHub", "WebApi-ngMapSignalRHub\WebApi-ngMapSignalRHub.csproj", "{EA8CCD9E-BE31-4C4C-911F-1262E6278B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{318F9125-34CD-45B2-9DAF-0761323DEB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318F9125-34CD-45B2-9DAF-0761323DEB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318F9125-34CD-45B2-9DAF-0761323DEB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318F9125-34CD-45B2-9DAF-0761323DEB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8CCD9E-BE31-4C4C-911F-1262E6278B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8CCD9E-BE31-4C4C-911F-1262E6278B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8CCD9E-BE31-4C4C-911F-1262E6278B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8CCD9E-BE31-4C4C-911F-1262E6278B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

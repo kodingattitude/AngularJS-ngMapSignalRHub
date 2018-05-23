@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <title>AngularJS - Google Maps</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <script src="scripts/jquery-1.6.4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.4/angular.min.js"></script>
+    <script src="scripts/ng-map.min.js"></script>
+    <script src="scripts/angular-signalr-hub.js"></script>
+    <script src="scripts/jquery.signalR-2.2.0.min.js"></script>
+
+    <script src="index.js"></script>
+</head>
+<body>
+    <div ng-app="angulargooglemaplocationtrackApp" ng-controller="locationtrackerCtrl as maplocation">
+        <div map-lazy-load="https://maps.google.com/maps/api/js" map-lazy-load-params="{{maplocation.googleMapsUrl}}">
+            <ng-map center="{{maplocation.center}}" style="height: 700px"
+                    zoom="{{maplocation.zoom}}" mapTypeId="ROADMAP"
+                    map-type-control="false">
+
+                <marker position="{{maplocation.devicePoint}}"></marker>
+                <!--<shape name="polyline" path="{{maplocation.positions}}"
+                         geodesic="true"
+                         stroke-color="#FF0000"
+                         stroke-opacity="1.0"
+                         stroke-weight="2">
+                </shape>-->
+
+                <info-window id="info">
+                    <div ng-non-bindable="">
+                        Device: {{maplocation.DeviceId}}<br />
+                    </div>
+                </info-window>
+            </ng-map>
+        </div>
+        <div>
+            <input type="text" ng-model="maplocation.deviceId" />
+            <input type="button" ng-click="maplocation.drawMap(maplocation.deviceId)" value="Show Tracks" />
+        </div>
+
+    </div>
+</body>
+</html>

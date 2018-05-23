@@ -1,0 +1,198 @@
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\ApplicationInsights.config
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\csc.exe
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\vbc.exe
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\VBCSCompiler.exe
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\WebApi-ngMapSignalRHub.dll.config
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\WebApi-ngMapSignalRHub.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\WebApi-ngMapSignalRHub.pdb
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Antlr3.Runtime.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\EntityFramework.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\EntityFramework.SqlServer.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.Agent.Intercept.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.DependencyCollector.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.Web.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.WindowsServer.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.ApplicationInsights.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Google.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.OAuth.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Twitter.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Newtonsoft.Json.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Owin.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Net.Http.Formatting.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Helpers.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.Owin.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.WebHost.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Mvc.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Optimization.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Razor.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.Deployment.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.Razor.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\WebGrease.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.DependencyCollector.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.Web.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.WindowsServer.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.ApplicationInsights.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Newtonsoft.Json.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Net.Http.Formatting.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Helpers.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.WebHost.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Mvc.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Optimization.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Razor.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.Deployment.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.Razor.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Antlr3.Runtime.pdb
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\EntityFramework.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\EntityFramework.SqlServer.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.Core.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Facebook.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Cookies.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.OAuth.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Google.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Twitter.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.Owin.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\obj\Debug\WebApi-ngMapSignalRHub.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\obj\Debug\WebApi-ngMapSignalRHub.pdb
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\obj\Debug\WebApi-ngMapSignalRHub.csprojResolveAssemblyReference.cache
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Cors.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Cors.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Cors.xml
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.Cors.dll
+D:\New folder\AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.Cors.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\ApplicationInsights.config
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\csc.exe
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\System.Collections.Immutable.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\System.Reflection.Metadata.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\vbc.exe
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\VBCSCompiler.exe
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\roslyn\VBCSCompiler.exe.config
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\WebApi-ngMapSignalRHub.dll.config
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\WebApi-ngMapSignalRHub.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\WebApi-ngMapSignalRHub.pdb
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Antlr3.Runtime.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\EntityFramework.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\EntityFramework.SqlServer.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.DependencyCollector.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.Web.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.WindowsServer.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.ApplicationInsights.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Cors.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Google.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Web.Infrastructure.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Newtonsoft.Json.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Owin.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Net.Http.Formatting.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Cors.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Helpers.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.Cors.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.Owin.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.WebHost.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Mvc.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Optimization.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Razor.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.Deployment.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.Razor.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\WebGrease.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.DependencyCollector.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.Web.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AI.WindowsServer.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.ApplicationInsights.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Cors.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.Cors.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Newtonsoft.Json.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Net.Http.Formatting.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Helpers.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.WebHost.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Mvc.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Optimization.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Razor.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.Deployment.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.WebPages.Razor.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Antlr3.Runtime.pdb
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\EntityFramework.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\EntityFramework.SqlServer.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Google.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\bin\System.Web.Http.Owin.xml
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\obj\Debug\WebApi-ngMapSignalRHub.csprojResolveAssemblyReference.cache
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\obj\Debug\WebApi-ngMapSignalRHub.dll
+E:\Codes\13 - AngularJS-ngMapSignalRHub\WebApi-ngMapSignalRHub\obj\Debug\WebApi-ngMapSignalRHub.pdb
